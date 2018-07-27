@@ -3,7 +3,7 @@
         <div class="user-info"></div>
         <section class="lists">
             <router-link class="list iconfont icon-quanbu">全部</router-link>
-            <router-link class="list iconfont icon-quanbu">全部</router-link>
+            <router-link class="list iconfont icon-quanbu"></router-link>
         </section>
     </div>
 </template>

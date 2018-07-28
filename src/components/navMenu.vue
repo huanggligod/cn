@@ -3,7 +3,12 @@
         <div class="user-info"></div>
         <section class="lists">
             <router-link class="list iconfont icon-quanbu">全部</router-link>
-            <router-link class="list iconfont icon-quanbu">全部</router-link>
+            <router-link class="list iconfont icon-hao">精华</router-link>
+            <router-link class="list iconfont icon-fenxiang">分享</router-link>
+            <router-link class="list iconfont icon-问答">问答</router-link>
+            <router-link class="list iconfont icon-zhaopin">招聘</router-link>
+            <router-link class="list iconfont icon-xiaoxi">消息</router-link>
+            <router-link class="list iconfont icon-about">关于</router-link>
         </section>
     </div>
 </template>
